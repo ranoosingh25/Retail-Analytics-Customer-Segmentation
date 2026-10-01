@@ -49,13 +49,12 @@ SQL Business Analysis
 RFM Customer Segmentation
        ↓
 Power BI Dashboard
-text
 
-## 📊 Power BI Dashboard
+📊 Power BI Dashboard
 
 The Power BI report contains four analytical pages.
 
-### 1. Executive Overview
+1. Executive Overview
 
 Provides a high-level view of overall business performance.
 
@@ -70,7 +69,7 @@ Top 10 Products by Revenue
 Revenue by Country
 Customer Segment Distribution
 
-### 2. Customer Analytics
+2. Customer Analytics
 
 Focuses on customer behavior and RFM-based segmentation.
 
@@ -87,7 +86,7 @@ Customer Recency Distribution
 Top 10 Customers by Revenue
 Average Customer Value by Segment
 
-### 3. Product & Sales Analysis
+3. Product & Sales Analysis
 
 Analyzes product performance and sales trends.
 
@@ -103,7 +102,7 @@ Monthly Sales Quantity
 Top 10 Products by Average Unit Price
 Product Sales Details
 
-### 4. Geographic Analysis
+4. Geographic Analysis
 
 Analyzes business performance across different countries.
 
@@ -117,7 +116,7 @@ Country Performance Analysis
 Customer Density by Country
 Country Revenue vs Customer Base
 
-## 👥 RFM Customer Segmentation
+👥 RFM Customer Segmentation
 
 RFM analysis was used to understand customer purchasing behavior based on:
 
@@ -136,7 +135,7 @@ Potential Loyalists
 
 This segmentation helps identify different customer groups and provides a structured way to analyze customer value and purchasing behavior.
 
-## 📈 Key Business Analyses
+📈 Key Business Analyses
 
 The project includes SQL analysis for:
 
@@ -151,7 +150,7 @@ RFM scoring
 Customer segmentation
 Segment-level performance
 
-## 🎯 Project Objectives
+🎯 Project Objectives
 
 Analyze retail sales performance
 Identify high-performing products
@@ -161,7 +160,7 @@ Analyze geographic sales performance
 Track important business KPIs
 Build an interactive business intelligence dashboard
 
-##💡 Skills Demonstrated
+💡 Skills Demonstrated
 
 Data Cleaning
 Data Transformation
@@ -175,13 +174,13 @@ Data Visualization
 Business Intelligence
 Dashboard Design
 
-## 📷 Dashboard Preview
+📷 Dashboard Preview
 
 The complete Power BI dashboard contains four pages:
 Executive Overview → Customer Analytics → Product & Sales Analysis → Geographic Analysis
 The screenshots above provide a preview of the completed dashboard.
 
-## 👤 Author
+👤 Author
 
 Ranoo Singh
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
