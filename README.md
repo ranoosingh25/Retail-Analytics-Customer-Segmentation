@@ -35,7 +35,7 @@ The workflow covers:
 ---
 
 ## 🔄 Project Workflow 
-
+```text
 Raw Retail Data
        ↓
 Python Data Cleaning
@@ -49,6 +49,7 @@ SQL Business Analysis
 RFM Customer Segmentation
        ↓
 Power BI Dashboard
+text
 
 ## 📊 Power BI Dashboard
 
